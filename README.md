@@ -7,18 +7,18 @@ Contest Link : https://www.kaggle.com/c/ai-unibuc-23-31-2021/overview
 
 
 
-__*Overview:*
+<br />*Overview:*
 This is a CT scan classification challenge in which competitors have to train machine learning models on a data set containing computer tomography (CT) scans of lungs. Competitors are scored based on the classification accuracy on a given test set. For each test image, the participants have to predict its class label.
 
 
 
 
-__*Task:*
+<br />*Task:*
 Participants have to train a model for CT scan classification. This is a multi-way classification task in which an image must be classified into one of the three classes (native, arterial, venous).
 
 The training data is composed of 15,000 image files. The validation set is composed of 4,500 image files. The test is composed of 3,900 image files.
 
-__*File Descriptions:*
+<br />*File Descriptions:*
 train.txt - the training metadata file containing the training image file names and the corresponding labels (one example per row)
 validation.txt - the validation metadata file containing the validation image file names and the corresponding labels (one example per row)
 test.txt - the test metadata file containing the test image file names (one sample per row)

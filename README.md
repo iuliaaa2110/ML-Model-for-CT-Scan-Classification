@@ -1,8 +1,8 @@
 # ML-Model-for-CT-Scan-Classification
 
 Contest Link : https://www.kaggle.com/c/ai-unibuc-23-31-2021/overview
-__*Score:* 0.76581% Accurracy
-__*Entries:* 8
+<br />*Score:* 0.76581% Accurracy
+<br />*Entries:* 8
 
 
 
